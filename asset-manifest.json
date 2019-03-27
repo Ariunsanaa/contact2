@@ -1,15 +1,15 @@
 {
-  "main.css": "/contactmanager/static/css/main.051cb929.chunk.css",
-  "main.js": "/contactmanager/static/js/main.98616e7f.chunk.js",
-  "main.js.map": "/contactmanager/static/js/main.98616e7f.chunk.js.map",
-  "runtime~main.js": "/contactmanager/static/js/runtime~main.884ecd02.js",
-  "runtime~main.js.map": "/contactmanager/static/js/runtime~main.884ecd02.js.map",
-  "static/css/2.9add5ba8.chunk.css": "/contactmanager/static/css/2.9add5ba8.chunk.css",
-  "static/js/2.8b56081d.chunk.js": "/contactmanager/static/js/2.8b56081d.chunk.js",
-  "static/js/2.8b56081d.chunk.js.map": "/contactmanager/static/js/2.8b56081d.chunk.js.map",
-  "index.html": "/contactmanager/index.html",
-  "precache-manifest.bf6f130a5cd3b24f34e0bcd28efc8681.js": "/contactmanager/precache-manifest.bf6f130a5cd3b24f34e0bcd28efc8681.js",
-  "service-worker.js": "/contactmanager/service-worker.js",
-  "static/css/2.9add5ba8.chunk.css.map": "/contactmanager/static/css/2.9add5ba8.chunk.css.map",
-  "static/css/main.051cb929.chunk.css.map": "/contactmanager/static/css/main.051cb929.chunk.css.map"
+  "main.css": "/contact2/static/css/main.051cb929.chunk.css",
+  "main.js": "/contact2/static/js/main.9d75a564.chunk.js",
+  "main.js.map": "/contact2/static/js/main.9d75a564.chunk.js.map",
+  "runtime~main.js": "/contact2/static/js/runtime~main.354b6c04.js",
+  "runtime~main.js.map": "/contact2/static/js/runtime~main.354b6c04.js.map",
+  "static/css/2.9add5ba8.chunk.css": "/contact2/static/css/2.9add5ba8.chunk.css",
+  "static/js/2.8b56081d.chunk.js": "/contact2/static/js/2.8b56081d.chunk.js",
+  "static/js/2.8b56081d.chunk.js.map": "/contact2/static/js/2.8b56081d.chunk.js.map",
+  "index.html": "/contact2/index.html",
+  "precache-manifest.c59994ef53c1d5808ffa1add6b05ae0f.js": "/contact2/precache-manifest.c59994ef53c1d5808ffa1add6b05ae0f.js",
+  "service-worker.js": "/contact2/service-worker.js",
+  "static/css/2.9add5ba8.chunk.css.map": "/contact2/static/css/2.9add5ba8.chunk.css.map",
+  "static/css/main.051cb929.chunk.css.map": "/contact2/static/css/main.051cb929.chunk.css.map"
 }
